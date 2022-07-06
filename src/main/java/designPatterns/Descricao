@@ -1,0 +1,39 @@
+ O Design Patterns é composto por padroes(Sugestoes) de boas praticas na criação de classes e organização de metodos. Que tem como objetivo tornar o sistema
+mais performatico na manutenção e execução, sem contar nas diversas vantagens adicionais, como redução no débito tecnico.
+  Um sistema bem estruturado é capaz de ser alterado de maneira facil e rapida, e o ganho de performance na execução é notavel.
+
+  *** Padroes de criação ***
+  Biulder;
+  Abstract Factory;
+  Prototype;
+  Singleton;
+  Factory Method;
+
+  ** Padroes estruturais **
+  Adapter;
+  Bridge;
+  Decorator;
+  Composite
+  Facade;
+  Flyweight
+  Proxy;
+
+  ** Padroes comportamentais **
+  Chain of Responsability;
+  Command;
+  Iterator;
+  Mediator;
+  Memento;
+  Observer;
+  State;
+  Strategy;
+  Visitor;
+
+
+
+
+
+
+
+
+
